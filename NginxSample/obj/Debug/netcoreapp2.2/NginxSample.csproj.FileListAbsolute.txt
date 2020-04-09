@@ -1,0 +1,10 @@
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\bin\Debug\netcoreapp2.2\NginxSample.deps.json
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\bin\Debug\netcoreapp2.2\NginxSample.runtimeconfig.json
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\bin\Debug\netcoreapp2.2\NginxSample.runtimeconfig.dev.json
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\bin\Debug\netcoreapp2.2\NginxSample.dll
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\bin\Debug\netcoreapp2.2\NginxSample.pdb
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\obj\Debug\netcoreapp2.2\NginxSample.csprojAssemblyReference.cache
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\obj\Debug\netcoreapp2.2\NginxSample.AssemblyInfoInputs.cache
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\obj\Debug\netcoreapp2.2\NginxSample.AssemblyInfo.cs
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\obj\Debug\netcoreapp2.2\NginxSample.dll
+C:\Users\sboev\RiderProjects\NginxSample\NginxSample\obj\Debug\netcoreapp2.2\NginxSample.pdb
